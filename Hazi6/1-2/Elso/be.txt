@@ -1,0 +1,7 @@
+E;kigyouborka;129;darab;7;15
+E;kigyouborka;129;darab;3;5
+T;16 cm-es fazek;1299;darab;5
+E;elo ponty;799;kg;20;10
+T;sulyzokeszlet;5990;szett;5
+E;2.8%-os tej;189;liter;10;20
+E;2.8%-os tej;189;liter;5;10
